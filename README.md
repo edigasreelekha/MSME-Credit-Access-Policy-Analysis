@@ -14,8 +14,8 @@ An empirical policy and data analysis study evaluating digital MSME formalizatio
 
 ## 📂 Repository Files
 
-[msme_master_final.csv]() — Cleaned master dataset (36 States/UTs)
+[msme_master_final.csv](https://github.com/edigasreelekha/MSME-Credit-Access-Policy-Analysis/blob/main/MSME_master_data.csv.xlsx) — Cleaned master dataset (36 States/UTs)
 
-[msme_credit_analysis.sql]() — MySQL queries & policy tier segmentation
+[msme_credit_analysis.sql](https://github.com/edigasreelekha/MSME-Credit-Access-Policy-Analysis/blob/main/MSME%20Credit%20Analysis_sql.sql) — MySQL queries & policy tier segmentation
 
-[Policy_Brief_MSME_Credit_India.md]() — Policy findings & CGTMSE / Account Aggregator recommendations
+[Policy_Brief_MSME_Credit_India.md](https://github.com/edigasreelekha/MSME-Credit-Access-Policy-Analysis/blob/main/policy_brief_msme_credit_access_india.md) — Policy findings & CGTMSE / Account Aggregator recommendations
